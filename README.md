@@ -2,10 +2,10 @@
 # 📘 Digital Literacy Project
 
 ## 👤 Student Details
-- **Name:** Malank Chatterjee 
-- **Reg No.:** 25BOE10030
-- **Branch:** BTech Bioengineering
-- **Year:** FY
+- **Name:** Priyanshu Chaurasiya 
+- **Reg No.:** 25BCE10136
+- **Branch:** BTech Computer science Engineering
+- **Year:** FY2029
 
 ---
 
